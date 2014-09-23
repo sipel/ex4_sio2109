@@ -1,6 +1,6 @@
 Exercise 4 
 
-SIO-2109 Introduction èa la programmation
+SIO-2109 Introduction à la programmation
 
 Simon Pelletier
 sipel34
