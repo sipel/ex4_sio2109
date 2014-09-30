@@ -1,0 +1,26 @@
+ex04
+
+19/20
+
+S'il vous plaît utiliser les noms de projet plus courts (comme ex04); 
+lorsque j'utilise git je dois taper le nom de projet.
+
+utiliser le formatage correct 
+voir Dart Style Guide
+
+1.
+ex4_fibonnaci --> ex4Fibonnaci
+
+2.
+-1 ex4_1 --> ex1
+...
+
+s'il vous plaît afficher les numéros des questions
+
+3.
+Temps écoulé de puis ma date de naissance soit 1989-05-12 00:00:00.000 et aujourd'hui :
+0025-04-18 00:00:00.000
+s'il vous plaît afficher une réponse claire
+exemple: 25 annees, 4 mois, 18 jours
+
+
